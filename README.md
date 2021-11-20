@@ -8,6 +8,10 @@
 
 </p>
 
+- 👋 Hi, I’m Mehrdad Heshmat (@MR-EIGHT)
+- 👀 I’m interested in Machine Learning, Deep Learning, and Information Retrieval.
+
+
 My github account stats:
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -21,7 +25,7 @@ My github account stats:
     </tr>
 </table>
 
-## Contact Me
+## 📫 Contact Me
 
 
 
